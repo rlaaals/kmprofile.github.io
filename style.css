@@ -1,0 +1,22 @@
+.computer {
+    color: orange;
+    font-style: italic;
+}
+
+.subject {
+    font-weight: bold;
+}
+
+img {
+    border-radius: 12px;
+}
+
+a {
+    color: slateblue
+}
+
+#h4title {
+    border-left: 3px solid orange;
+    padding-left: 5px;
+}
+
